@@ -1,5 +1,10 @@
 # Google Hit Botu
 
-Google Hit Botu, organik trafik simülasyonu ile Google sıralamanızı yükseltmek için geliştirilmiş bir çözümdür. Chromium tabanlı tarayıcı motoru ile hedef siteye tıklama simülasyonu yaparak sıralamanızı artırmanıza yardımcı olur.
+Browser ve REQ Botları mevcuttur.
 
-Detaylı bilgi almak için: [Telegram](https://t.me/flxwrd) ← [WhatsApp](https://wa.me/447445223163) ←
+İkiside sorunsuz çalışmaktadır:
+
+- Req hit botu aylık 2000$ 
+- Browser açık kaynak tek seferlik 3000$
+
+Detaylı bilgi almak için: [Telegram](https://t.me/flxwrd) ← [WhatsApp](https://wa.me/447445223163)
