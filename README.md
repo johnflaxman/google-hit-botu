@@ -1,8 +1,6 @@
 # Google Hit Botu
 
-Browser ve REQ Botları mevcuttur.
-
-İkiside sorunsuz çalışmaktadır:
+Browser ve REQ Botları mevcuttur. İkiside sorunsuz çalışmaktadır:
 
 - Req hit botu aylık 2000$ 
 - Browser açık kaynak tek seferlik 3000$
